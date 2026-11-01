@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Nisarg 👋
 
-<!--
-**nisargstacked/nisargstacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who's curious about technology and always eager to learn something new.
 
-Here are some ideas to get you started:
+- 🎓 Currently learning and exploring the world of tech.
+- 💻 Love building projects that actually work and solve problems.
+- 🚀 Interested in experimenting, creating, and contributing to open source.
+- 🌱 Always looking to improve, grow, and learn along the way.
+- 😌 Lowkey chill, but always up for a new challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by building, making mistakes, and getting better with every project.
+
+**Still learning. Always building. Never settling.**
