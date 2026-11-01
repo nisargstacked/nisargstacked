@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Purple world map and projects folder" width="480" />
-</p>
+<img src="assets/profile-banner.png" alt="Purple world map and projects folder" width="100%" />
 
 # Hey, I'm Nisarg 👋
 
