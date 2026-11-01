@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Purple world map and projects folder" width="480" />
+</p>
+
 # Hey, I'm Nisarg 👋
 
 I'm a student who's curious about technology and always eager to learn something new.
@@ -11,3 +15,4 @@ I'm a student who's curious about technology and always eager to learn something
 I believe in learning by building, making mistakes, and getting better with every project.
 
 **Still learning. Always building. Never settling.**
+
